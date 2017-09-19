@@ -1,0 +1,9 @@
+E:\Devel\Csharp\version_updater\version_updater\bin\Debug\version_updater.exe.config
+E:\Devel\Csharp\version_updater\version_updater\bin\Debug\version_updater.exe
+E:\Devel\Csharp\version_updater\version_updater\bin\Debug\version_updater.pdb
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\ResolveAssemblyReference.cache
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\version_updater.Form1.resources
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\version_updater.Properties.Resources.resources
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\version_updater.csproj.GenerateResource.Cache
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\version_updater.exe
+E:\Devel\Csharp\version_updater\version_updater\obj\Debug\version_updater.pdb

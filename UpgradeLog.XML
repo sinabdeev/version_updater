@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="version_updater">
+</Property><Property Name="Solution File" Value="E:\Devel\Csharp\version_updater\version_updater.sln">
+</Property><Property Name="Date" Value="1 февраля 2010 г.">
+</Property><Property Name="Time" Value="23:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="version_updater.sln" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater.sln">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\version_updater.csproj" Description="Project file successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\version_updater.csproj">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Form1.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Form1.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Form1.Designer.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Program.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Program.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\app.config" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\app.config">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Properties\Settings.settings" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Resources\AppIcon.ico" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Resources\AppIcon.ico">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Form1.resx" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Form1.resx">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\Properties\Resources.resx" Description="File successfully backed up as E:\Devel\Csharp\version_updater_back\Backup\version_updater\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\version_updater.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="version_updater" Source="version_updater\version_updater.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="version_updater.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="version_updater.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="version_updater" Source="version_updater\version_updater.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

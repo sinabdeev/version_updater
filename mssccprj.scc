@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[version_updater.sln]
+SCC_Aux_Path = "\\fileserver\KACOOShares\VSS\SourceSafe"
+SCC_Project_Name = "$/version_updater", LXOBAAAA

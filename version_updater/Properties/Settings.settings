@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="version_updater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AfterStartApplication" Type="System.String" Scope="User">
+      <Value Profile="(Default)">riscbinder.exe</Value>
+    </Setting>
+    <Setting Name="CopyFileList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;common.dll&lt;/string&gt;
+  &lt;string&gt;components.dll&lt;/string&gt;
+  &lt;string&gt;data.dll&lt;/string&gt;
+  &lt;string&gt;ExcelTransformer.xslt&lt;/string&gt;
+  &lt;string&gt;ini.dll&lt;/string&gt;
+  &lt;string&gt;log.dll&lt;/string&gt;
+  &lt;string&gt;refbooks.dll&lt;/string&gt;
+  &lt;string&gt;riscbinder.exe&lt;/string&gt;
+  &lt;string&gt;RiscBinder.ini&lt;/string&gt;
+  &lt;string&gt;security.dll&lt;/string&gt;
+  &lt;string&gt;transmitters.dll&lt;/string&gt;
+  &lt;string&gt;version&lt;/string&gt;
+  &lt;string&gt;winforms.dll&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="FConfigServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\dbs\riscbinder\distr\</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
